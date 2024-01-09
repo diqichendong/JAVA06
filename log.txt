@@ -1,0 +1,42 @@
+2023-12-11T20:44:45.460079800 >>> Unknown database 'gestion_comanda'
+2023-12-11T20:45:10.301804100 >>> Unknown database 'gestion_comanda'
+2023-12-12T20:20:21.044286800 >>> Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-12-13T16:35:38.527515300 >>> Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-12-13T16:37:23.125256700 >>> Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-12-13T16:37:55.655554900 >>> Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-12-13T16:38:44.880981600 >>> Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-12-13T16:39:19.739721100 >>> Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-12-13T16:43:05.783550900 >>> Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2023-12-15T11:25:30.154875800 >>> Operation not allowed after ResultSet closed
+2023-12-15T11:27:57.422955800 >>> Operation not allowed after ResultSet closed
+2023-12-15T19:11:57.024152300 >>> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'plato values (10, 4, 1)' at line 1
+2023-12-15T19:18:22.805869200 >>> No value specified for parameter 1
+2024-01-06T13:07:52.055773234 >>> Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2024-01-06T13:30:54.589416399 >>> Illegal operation on empty result set.
+2024-01-06T13:38:48.647488700 >>> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2024-01-06T13:42:32.191371052 >>> Illegal operation on empty result set.
+2024-01-06T13:46:11.593732367 >>> Illegal operation on empty result set.
+2024-01-06T13:50:06.201367712 >>> Illegal operation on empty result set.
+2024-01-06T13:52:50.077435168 >>> Illegal operation on empty result set.
+2024-01-06T14:00:14.177687340 >>> Illegal operation on empty result set.
+2024-01-06T14:01:24.095471412 >>> Incorrect string value: '\xC5\x9Be' for column 'nombre' at row 1
+2024-01-06T14:05:52.305826066 >>> Incorrect string value: '\xC5\x9Be' for column 'nombre' at row 1
+2024-01-09T15:40:49.575597438 >>> Before start of result set
+2024-01-09T15:43:41.926336486 >>> Duplicate entry '10-2' for key 'PRIMARY'
+2024-01-09T15:44:07.635515411 >>> Duplicate entry '10-2' for key 'PRIMARY'
